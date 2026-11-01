@@ -64,6 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Yoom (fka Tetavi) is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. Sector: gaming. This profile is a lead awaiting the enrichment pipeline.
+Yoom (formerly Tetavi) is an Israeli deep-tech company founded in 2016 that develops volumetric video and markerless performance-capture technology using proprietary AI and neural networks. Its products include YoomTrack, a studio-grade markerless motion-capture system that captures full-body, hand, and facial motion simultaneously, and the YOOM Volumetric plugin for Unreal Engine (distributed via Epic Games' Fab marketplace) that plays back volumetric capture content in real time. Yoom serves gaming, film, TV, VFX, and immersive-media studios and is backed by Insight Partners. The company distributes its technology as game-engine plugins (Unreal Engine, Unity, Autodesk Maya, MotionBuilder) rather than as a public web API; as of this pass it publishes no REST/GraphQL API, developer portal, SDK on a public package registry, or OpenAPI specification.
 
-Backed by: insight-partners — https://www.tetavi.com/
+**Areas:** Company · Gaming · Volumetric Video · Motion Capture · Performance Capture · 3D · Unreal Engine · VFX · Neural Rendering · Artificial Intelligence
+
+## Yoom (fka Tetavi) on APIs.io
+
+Everything profiled for Yoom (fka Tetavi) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/yoom-fka-tetavi/](https://apis.io/providers/yoom-fka-tetavi/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Yoom Fka Tetavi Domain Security](https://apis.io/security/yoom-fka-tetavi/yoom-fka-tetavi-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://yoom.com/)
+
+## API Evangelist rating
+
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/yoom-fka-tetavi/](https://apis.io/providers/yoom-fka-tetavi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Yoom (fka Tetavi): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/yoom-fka-tetavi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
